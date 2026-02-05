@@ -1,0 +1,67 @@
+This game is a color matching jumping game.
+
+When the game starts, the ball is at the bottom of the screen and it does not move by itself.
+
+The ball starts at the bottom and stays still.
+
+When the player presses the screen, the ball moves up.
+
+When the player stops pressing, the ball falls down because of gravity.
+
+The player must control when to press and when to release.
+
+There are 10 horizontal moving lines above the ball.
+
+Each line has different colors.
+
+The lines move left and right.
+
+Every new line is faster and has more colors.
+
+The player presses and holds to make the ball go up.
+
+The player releases to let the ball fall down.
+
+The goal is to pass the ball through the correct color in each line.
+
+The ball has one color.
+
+Each line has many colors.
+
+The ball must pass through the same color as the ball.
+
+If the colors match, the ball can go to the next line.
+
+The player loses if:
+
+The ball falls down off the screen.
+
+The ball touches a wrong color.
+
+When this happens:
+
+The ball breaks or disappears.
+
+The game restarts from the beginning.
+
+If the ball passes all 10 lines correctly,
+
+A You Win message appears,
+
+The player wins the game.
+
+The controls are very simple (press and release).
+
+The challenge comes from timing and colors.
+
+The speed increases, so the game becomes harder step by step.
+
+This game is made using simple ideas:
+
+Press to go up
+
+Release to fall down
+
+Match colors to survive
+
+Even though the rules are simple, the game is challenging and fun.
